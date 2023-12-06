@@ -32,6 +32,6 @@
 
 <br>
 
-![](./img/footer.png)
+![](./img/footer2.png)
 
 </div>
