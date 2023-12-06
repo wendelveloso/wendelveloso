@@ -1,4 +1,4 @@
-## ![](./img/background-github.png)
+## ![](./img/background-github2.png)
 
 ### Hi there 👋
 
