@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-<p align=center>Sou estudante e apaixonado por tecnologia. cursando desenvolvimento de software full-stack na <a style="text-decoration:none" href="https://cubos.academy/"><b>Cubos Academy</b></a>. Objetividade e criatividade são meus pontos fortes, que se encaixam perfeitamente na solução de problemas na área de programação.</p>
+<p align=center>Sou estudante e apaixonado por tecnologia. cursando desenvolvimento de software full-stack na <a href="https://cubos.academy/"><b>Cubos Academy</b></a>. Objetividade e criatividade são meus pontos fortes, que se encaixam perfeitamente na solução de problemas na área de programação.</p>
 <br>
 
 - 🌱 **Atualmente estou aprendendo**: [PostgreSQL](https://www.postgresql.org/) e [TypeScript](https://www.typescriptlang.org/)
