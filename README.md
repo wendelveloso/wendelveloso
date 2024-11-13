@@ -5,7 +5,7 @@
 <p align=center>Sou estudante e apaixonado por tecnologia. cursando desenvolvimento de software full-stack na <a href="https://cubos.academy/"><b>Cubos Academy</b></a> e cursando Análise e Desenvolvimento de Sistemas na <a href="https://estacio.br/"><b>Faculdade Estácio</b></a>. Objetividade e criatividade são meus pontos fortes, que se encaixam perfeitamente na solução de problemas na área de programação.</p>
 <br>
 
-- 🌱 **Atualmente estou aprendendo**: [React](https://react.dev/) e [TypeScript](https://www.typescriptlang.org/)
+- 🌱 **Atualmente estou aprendendo**: [Next.js](https://nextjs.org/) e [Tailwind CSS](https://tailwindcss.com/)
 - ⚡ **Sobre mim**: 🚴💪 *sports* + 🌊🌴 *beach* + 🎮 *games*
 
 ##
