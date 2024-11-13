@@ -28,9 +28,13 @@
   <img align="center" alt="Wendel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">    
   <img align="center" alt="Wendel-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Wendel-Tp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+   <br><br>
   <img align="center" alt="Wendel-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Wendel-figma" height="30" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
   <img align="center" alt="Wendel-postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg">
+ <img align="center" alt="Wendel-nextjs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
+   <img align="center" alt="Wendel-tailwindcss" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
+   
 </div>
 <br><br><br>
 
