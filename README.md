@@ -34,6 +34,7 @@
   <img align="center" alt="Wendel-postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg">
  <img align="center" alt="Wendel-nextjs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
    <img align="center" alt="Wendel-tailwindcss" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
+   <img align="center" alt="Wendel-vue" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
    
 </div>
 <br><br><br>
