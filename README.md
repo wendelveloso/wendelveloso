@@ -44,7 +44,6 @@
 <div><a href="https://www.linkedin.com/in/wendel-veloso-b2482228a/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ![](https://dcbadge.limes.pink/api/shield/203041991716634624?theme=discord-inverted)
-
 <br>
 
 ![](./img/footer2.png)
