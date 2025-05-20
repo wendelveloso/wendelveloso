@@ -20,7 +20,7 @@
 *Atualmente estou usando/estudando:*
 
 </div>
-<img src="./img/emoji.png" min-width="400px" max-width="200px" width="200px" align="right" alt="Computador Codigo">
+
 <div style="display: inline_block">
   <img align="center" alt="Wendel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Wendel-Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
