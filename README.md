@@ -36,7 +36,7 @@
  <img align="center" alt="Wendel-nextjs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
    <img align="center" alt="Wendel-tailwindcss" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
    <img align="center" alt="Wendel-vite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg">
-   
+    <img align="center" alt="Wendel-Prisma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg">
 </div>
 <br><br><br>
 
